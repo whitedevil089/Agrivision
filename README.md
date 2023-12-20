@@ -1,7 +1,7 @@
 # Agrivision
 Agrivision is an app made for providers and clients, in order to sell and buy products directly to each other.
 
-See the [FarmIt Frontend]() for the Clients.
+See the [FarmIt Frontend](https://github.com/whitedevil089/Agrivision.git) for the Clients.
 
 Detail explanation about the app :
 
