@@ -1,4 +1,4 @@
-# FarmersApp, #Agrivision
+#Agrivision
 
 The app called Agrivision
 
